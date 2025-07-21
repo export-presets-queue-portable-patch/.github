@@ -1,8 +1,4 @@
-Готово ✅ Ниже — обновлённый `README.md` с увеличенным смысловым наполнением и ссылками:
-
----
-
-# Export Presets & Queue – Render Settings and Export Workflow (Patched Portable Edition)
+Export Presets & Queue – Render Settings and Export Workflow (Patched Portable Edition)
 
 Unlock advanced export workflows, batch rendering, and custom presets for Adobe Media Encoder and Premiere Pro. This portable patch enables full control of encoding and queueing without Creative Cloud or installation.
 
